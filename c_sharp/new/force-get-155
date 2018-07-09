@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1"> <title>[PDF] Thinking in C# free tutorial for Intermediate </title>
+<meta name="robots" content="index, follow"/>
+<link rel="manifest" href="/manifest.json">
+<link rel="shortcut icon" href="/favicon.ico"/>
+<meta name="google-play-app" content="app-id=com.computerpdf.app"> <link rel="canonical" href="https://www.computer-pdf.com/programming/csharp/155-tutorial-thinking-in-csharp-book-course-training-tutorial.html"/>
+<meta name="description" content="Download free Thinking in C# full book course and training tutorials, PDF file writing by Larry O’Brien and Bruce Eckel"/> <meta property="og:type" content="article"/>
+<meta property="og:title" content="Thinking in C#"/>
+<meta property="og:description" content="Download free Thinking in C# full book course and training tutorials, PDF file writing by Larry O’Brien and Bruce Eckel"/>
+<meta property="og:url" content="https://www.computer-pdf.com/programming/csharp/155-tutorial-thinking-in-csharp-book-course-training-tutorial.html"/>
+<meta property="og:site_name" content="Computer PDF"/>
+<meta property="og:image" content="https://www.computer-pdf.com/documents/covers/0155-thinking-in-csharp-book-course-training-tutorial.pdf.png"/>
+<style>@font-face{font-family:'FontAwesome';src:url(/fonts/fontawesome-webfont.eot?v=4.7.0);src:url(/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype') , url(/fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2') , url(/fonts/fontawesome-webfont.woff?v=4.7.0) format('woff') , url(/fonts/fontawesome-webfont.ttf?v=4.7.0) format('truetype') , url(/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');font-weight:normal;font-style:normal}.btn-primary{color:#fff;background-color:#b1221c;border-color:#9b1e18}.rand{margin-top:8px;margin-bottom:8px}.icons{color:#000}.badge{top:0;padding:1px 5px;float:right;position:relative;top:2px;display:inline-block;min-width:10px;padding:3px 7px;font-size:12px;font-weight:700;color:#fff;line-height:1;vertical-align:middle;white-space:nowrap;text-align:center;background-color:#777;border-radius:10px}hr{margin-top:1px;margin-bottom:1px;border:0;border-top:1px solid #eee}.fa{display:inline-block;font:14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-user:before{content:"\f007"}.fa-search:before{content:"\f002"}.fa-envelope-o:before{content:"\f003"}.fa-home:before{content:"\f015"}.fa-book:before{content:"\f02d"}.fa-camera:before{content:"\f030"}.fa-share-square-o:before{content:"\f045"}.fa-sign-in:before{content:"\f090"}.fa-twitter:before{content:"\f099"}.fa-facebook:before{content:"\f09a"}.fa-files-o:before{content:"\f0c5"}.fa-google-plus:before{content:"\f0d5"}.fa-linkedin:before{content:"\f0e1"}.fa-desktop:before{content:"\f108"}.fa-code:before{content:"\f121"}.fa-html5:before{content:"\f13b"}.fa-unlock-alt:before{content:"\f13e"}.fa-tumblr:before{content:"\f173"}.fa-android:before{content:"\f17b"}.fa-google:before{content:"\f1a0"}.fa-stumbleupon:before{content:"\f1a4"}.fa-database:before{content:"\f1c0"}.fa-file-pdf-o:before{content:"\f1c1"}.fa-wifi:before{content:"\f1eb"}.fa-line-chart:before{content:"\f201"}.fa-server:before{content:"\f233"}.fa-calculator:before{content:"\f1ec"}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}header,nav{display:block}a{background-color:transparent}strong{font-weight:bold}h1{font-size:2em;margin:.67em 0}small{font-size:80%}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button{-webkit-appearance:button}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}table{border-collapse:collapse;border-spacing:0}td{padding:0}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}input,button{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#b1221c;text-decoration:none}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1,h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2 small{font-weight:normal;line-height:1;color:#777}h1,h2,h3{margin-top:20px;margin-bottom:10px}h2 small{font-size:65%}h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}small{font-size:85%}ul,ol{margin-top:0;margin-bottom:10px}ul ul{margin-bottom:0}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-sm-3,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-9,.col-sm-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:768px){.col-sm-3,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-9,.col-sm-12{float:left}.col-sm-12{width:100%}.col-sm-9{width:75%}.col-sm-7{width:58.33333333%}.col-sm-6{width:50%}.col-sm-5{width:41.66666667%}.col-sm-3{width:25%}}table{background-color:transparent}.table{width:100%;max-width:100%;margin-bottom:20px}.table>tbody>tr>td{padding:8px;line-height:1.42857143;vertical-align:top;border-top:1px solid #ddd}.table>tbody+tbody{border-top:2px solid #ddd}.table-condensed>tbody>tr>td{padding:5px}.table-striped > tbody > tr:nth-of-type(odd) {background-color:#f9f9f9}.table-responsive{overflow-x:auto;min-height:.01%}@media screen and (max-width:767px){.table-responsive{width:100%;margin-bottom:15px;overflow-y:hidden;-ms-overflow-style:-ms-autohiding-scrollbar;border:1px solid #ddd}}.form-control{display:block;width:100%;height:34px;padding:6px 12px;font-size:14px;line-height:1.42857143;color:#555;background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075)}.form-control::-moz-placeholder{color:#999;opacity:1}.form-control:-ms-input-placeholder{color:#999}.form-control::-webkit-input-placeholder{color:#999}.form-control::-ms-expand{border:0;background-color:transparent}.form-group{margin-bottom:15px}.btn{display:inline-block;margin-bottom:0;font-weight:normal;text-align:center;vertical-align:middle;-ms-touch-action:manipulation;touch-action:manipulation;background-image:none;border:1px solid transparent;white-space:nowrap;padding:6px 12px;font-size:14px;line-height:1.42857143;border-radius:4px}.btn-default{color:#333;background-color:#fff;border-color:#ccc}.btn-lg{padding:10px 16px;font-size:18px;line-height:1.3333333;border-radius:6px}.collapse{display:none}.caret{display:inline-block;width:0;height:0;margin-left:2px;vertical-align:middle;border-top:4px dashed;border-top:4px solid \9 ;border-right:4px solid transparent;border-left:4px solid transparent}.dropdown{position:relative}.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;display:none;float:left;min-width:160px;padding:5px 0;margin:2px 0 0;list-style:none;font-size:14px;text-align:left;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,.15);border-radius:4px;-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);box-shadow:0 6px 12px rgba(0,0,0,.175);-webkit-background-clip:padding-box;background-clip:padding-box}.dropdown-menu>li>a{display:block;padding:3px 20px;clear:both;font-weight:normal;line-height:1.42857143;color:#333;white-space:nowrap}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.navbar{position:relative;min-height:50px;margin-bottom:20px;border:1px solid transparent}@media (min-width:768px){.navbar{border-radius:4px}.navbar-header{float:left}}.navbar-collapse{overflow-x:visible;padding-right:15px;padding-left:15px;border-top:1px solid transparent;-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.1);-webkit-overflow-scrolling:touch}@media (min-width:768px){.navbar-collapse{width:auto;border-top:0;-webkit-box-shadow:none;box-shadow:none}.navbar-collapse.collapse{display:block!important;height:auto!important;padding-bottom:0;overflow:visible!important}.navbar-fixed-top .navbar-collapse{padding-left:0;padding-right:0}}.navbar-fixed-top .navbar-collapse{max-height:340px}@media (max-device-width:480px) and (orientation:landscape){.navbar-fixed-top .navbar-collapse{max-height:200px}}.container>.navbar-header,.container>.navbar-collapse{margin-right:-15px;margin-left:-15px}@media (min-width:768px){.container>.navbar-header,.container>.navbar-collapse{margin-right:0;margin-left:0}}.navbar-fixed-top{position:fixed;right:0;left:0;z-index:1030}@media (min-width:768px){.navbar-fixed-top{border-radius:0}}.navbar-fixed-top{top:0;border-width:0 0 1px}.navbar-brand{float:left;padding:15px 15px;font-size:18px;line-height:20px;height:50px}@media (min-width:768px){.navbar>.container .navbar-brand{margin-left:-15px}}.navbar-toggle{position:relative;float:right;margin-right:15px;padding:9px 10px;margin-top:8px;margin-bottom:8px;background-color:transparent;background-image:none;border:1px solid transparent;border-radius:4px}.navbar-toggle .icon-bar{display:block;width:22px;height:2px;border-radius:1px}.navbar-toggle .icon-bar+.icon-bar{margin-top:4px}@media (min-width:768px){.navbar-toggle{display:none}}.navbar-nav{margin:7.5px -15px}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px;line-height:20px}@media (min-width:768px){.navbar-nav{float:left;margin:0}.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:15px;padding-bottom:15px}}.navbar-form{margin-left:-15px;margin-right:-15px;padding:10px 15px;border-top:1px solid transparent;border-bottom:1px solid transparent;-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,.1) , 0 1px 0 rgba(255,255,255,.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.1) , 0 1px 0 rgba(255,255,255,.1);margin-top:8px;margin-bottom:8px}@media (min-width:768px){.navbar-form .form-group{display:inline-block;margin-bottom:0;vertical-align:middle}.navbar-form .form-control{display:inline-block;width:auto;vertical-align:middle}}@media (max-width:767px){.navbar-form .form-group{margin-bottom:5px}}@media (min-width:768px){.navbar-form{width:auto;border:0;margin-left:0;margin-right:0;padding-top:0;padding-bottom:0;-webkit-box-shadow:none;box-shadow:none}}.navbar-nav>li>.dropdown-menu{margin-top:0;border-top-right-radius:0;border-top-left-radius:0}@media (min-width:768px){.navbar-left{float:left!important}.navbar-right{float:right!important;margin-right:-15px}}.navbar-inverse{background-color:#222;border-color:#080808}.navbar-inverse .navbar-brand{color:#9d9d9d}.navbar-inverse .navbar-nav>li>a{color:#9d9d9d}.navbar-inverse .navbar-toggle{border-color:#333}.navbar-inverse .navbar-toggle .icon-bar{background-color:#fff}.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form{border-color:#101010}.breadcrumb{padding:8px 15px;margin-bottom:20px;list-style:none;background-color:#f5f5f5;border-radius:4px}.breadcrumb>li{display:inline-block}.breadcrumb>li+li:before{content:"/\00a0";padding:0 5px;color:#ccc}.breadcrumb>.active{color:#777}.panel{margin-bottom:20px;background-color:#fff;border:1px solid transparent;border-radius:4px;-webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);box-shadow:0 1px 1px rgba(0,0,0,.05)}.panel-body{padding:15px}.panel-heading{padding:10px 15px;border-bottom:1px solid transparent;border-top-right-radius:3px;border-top-left-radius:3px}.panel-title{margin-top:0;margin-bottom:0;font-size:16px;color:inherit}.panel-default{border-color:#ddd}.panel-default>.panel-heading{color:#333;background-color:#f5f5f5;border-color:#ddd}.container:before,.container:after,.row:before,.row:after,.nav:before,.nav:after,.navbar:before,.navbar:after,.navbar-header:before,.navbar-header:after,.navbar-collapse:before,.navbar-collapse:after,.panel-body:before,.panel-body:after{content:" ";display:table}.container:after,.row:after,.nav:after,.navbar:after,.navbar-header:after,.navbar-collapse:after,.panel-body:after{clear:both}body{padding-top:60px}h1{font-size:1.6em;margin-top:10px;margin-bottom:0;vertical-align:middle}h1 i,h2 i{vertical-align:middle}.breadcrumb{margin-bottom:5px!important}.titre{text-align:right;font-weight:bolder}.table-cours{margin-bottom:0}td h2{font-size:1.3em;margin:0}.subcat{display:inline-block;margin:6px}.cat div h2 i{vertical-align:middle}.cat div h2{font-size:1.4em}.top-ads{text-align:center;padding-top:8px}.top-desc{word-spacing:4px;line-height:24px}.sn{text-align:center}.sn .title{font-size:1.4em}.sn a{color:#555;margin:8px}.aside{text-align:center}.panel,.table{margin-bottom:10px}.panel-body{padding:10px 4px}.socialfloat{display:block;position:fixed;left:0;top:155px;z-index:9999}.socialfloat .fbtn{width:50px;height:50px;display:block;color:#000;text-align:center}.socialfloat .fbtn i{font-size:30px;line-height:50px}#myImg,#myImg2{border-radius:5px;cursor:pointer;transition:.3s}#myImg:hover,#myImg2:hover{opacity:.7}.modal{display:none;position:fixed;z-index:1;padding-top:60px;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:#000;background-color:rgba(0,0,0,.9)}.modal-content{margin:auto;display:block;width:40%;max-width:500px}#caption{margin:auto;display:block;width:80%;max-width:700px;text-align:center;color:#ccc;padding:10px 0;height:150px}.modal-content,#caption{animation-name:zoom;animation-duration:.6s}@keyframes  zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}.close{position:absolute;top:50px;right:35px;color:#f1f1f1;font-size:40px;font-weight:bold;transition:.3s}.close:hover,.close:focus{color:#bbb;text-decoration:none;cursor:pointer}@media only screen and (max-width:700px){.modal-content{width:100%}}</style> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-3751423958117571",enable_page_level_ads:true});</script>
+<link rel="dns-prefetch" href="//cdn.onesignal.com"></head>
+<body>
+<div class="container">
+<header class="row">
+<nav class="navbar navbar-inverse navbar-fixed-top">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/" title="Welcome to computer-pdf.com"><i class="fa fa-home" aria-hidden="true"></i> Computer-PDF</a>
+</div>
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav">
+<li><a href="https://www.computer-pdf.com/contact" title="Contact computer-pdf.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> Contact</a>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li>
+<form class="navbar-form navbar-left" role="search" method="post" action="https://www.computer-pdf.com">
+<div class="form-group">
+<i class="fa fa-search fa-2x" aria-hidden="true" style="color:white;vertical-align:middle;"></i>
+<input type="text" name="query" class="form-control" placeholder="Search">
+</div>
+<input type="hidden" name="_token" value="muKYmOdOEq1qmjqBD5ZWViC7eWKrGBkeYVolN0lH">
+</form>
+</li>
+<li><a href="https://www.computer-pdf.com/login"><i class="fa fa-sign-in" aria-hidden="true"></i> Login</a></li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+<div class="row">
+<div class="col-sm-12">
+<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="https://www.computer-pdf.com" title="computer-pdf.com">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1"/>
+</li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="https://www.computer-pdf.com/programming/" title="tutorial Computer programming">
+<span itemprop="name">Computer programming</span>
+</a>
+<meta itemprop="position" content="2"/>
+</li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="https://www.computer-pdf.com/programming/csharp/" title="course CSharp language"> <span itemprop="name">CSharp language</span>
+</a>
+<meta itemprop="position" content="3"/>
+</li>
+<li class="active">Thinking in C# </li>
+</ol>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-9">
+<div class="row">
+<div class="col-sm-12">
+<h1>
+<i class="fa fa-file-pdf-o fa-2x" aria-hidden="true"></i>
+Thinking in C# in PDF
+</h1>
+</div>
+<div class="col-sm-7" style="float:right;padding-top:10px;">
+<ul>
+<li>Preface: Computer Language, Those Who Can, Code</li>
+<li>Introduction to Objects, Hello, Objects</li>
+<li>Controlling Program Flow, Initialization and Cleanup</li>
+<li>Hiding the Implementation, Reusing Classes</li>
+<li>Interfaces and Implementation, Coupling and Cohesion</li>
+<li>Collecting Your Objects, Error Handling with Exceptions</li>
+<li>I/O in C#, Reflection and Attributes</li>
+<li>Programming Windows Forms, GDI+ Overview</li>
+<li>Multithreaded Programming, XML, Web Programmin</li>
+<li>C# for Visual Basic Programmers, C# for Java Programmers&nbsp;</li>
+<li>Test-First Programming with NUnit</li>
+<li>Programming the Pocket PC, C# programming guidelines</li>
+</ul>
+</div>
+<div class="col-sm-5 top-ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3751423958117571" data-ad-slot="4945328374" data-ad-format="auto"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+<div class="col-sm-12">
+<table class="table table-condensed table-hover table-striped table-responsive" style="margin-top:10px;">
+<tbody>
+<tr>
+<td class="titre">Description&nbsp;:</td>
+<td>Download free Thinking in C# full book course and training tutorials, PDF file writing by Larry O’Brien and Bruce Eckel</td>
+</tr>
+<tr>
+<td class="titre">Level :</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td class="titre">Created :</td>
+<td>2013-12-26 12:27:50</td>
+</tr>
+<tr>
+<td class="titre">Size :</td>
+<td>5.09 MB</td>
+</tr>
+<tr>
+<td class="titre">File type :</td>
+<td>pdf</td>
+</tr>
+<tr>
+<td class="titre">Pages :</td>
+<td>957</td>
+</tr>
+<tr>
+<td class="titre">Author :</td>
+<td>Larry O’Brien and Bruce Eckel</td>
+</tr>
+<tr>
+<td class="titre">Downloads&nbsp;:</td>
+<td>10008</td>
+</tr>
+</tbody>
+</table>
+<div class="row">
+<div class="col-sm-6" style="text-align:center;">
+<figure>
+<script data-pagespeed-no-defer>(function(){var g=this;function h(b,d){var a=b.split("."),c=g;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};function l(b){var d=b.length;if(0<d){for(var a=Array(d),c=0;c<d;c++)a[c]=b[c];return a}return[]};function m(b){var d=window;if(d.addEventListener)d.addEventListener("load",b,!1);else if(d.attachEvent)d.attachEvent("onload",b);else{var a=d.onload;d.onload=function(){b.call(this);a&&a.call(this)}}};var n;function p(b,d,a,c,e){this.h=b;this.j=d;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=c;this.b={};this.a=[];this.c={}}function q(b,d){var a,c,e=d.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=d.offsetWidth&&0>=d.offsetHeight)a=!1;else{c=d.getBoundingClientRect();var f=document.body;a=c.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);c=c.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+c;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&c<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}p.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&q(this,b)};h("pagespeed.CriticalImages.checkImageForCriticality",function(b){n.checkImageForCriticality(b)});h("pagespeed.CriticalImages.checkCriticalImages",function(){r(n)});function r(b){b.b={};for(var d=["IMG","INPUT"],a=[],c=0;c<d.length;++c)a=a.concat(l(document.getElementsByTagName(d[c])));if(0!=a.length&&a[0].getBoundingClientRect){for(c=0;d=a[c];++c)q(b,d);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(d=0!=b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),c=1;c<b.a.length;++c){var e=","+encodeURIComponent(b.a[c]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(t())),131072>=a.length+e.length&&(a+=e),d=!0);u=a;if(d){c=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(k){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(v){}}f&&(f.open("POST",c+(-1==c.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function t(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)return{};var a=d[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var c=0;a=d[c];++c){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var u="";h("pagespeed.CriticalImages.getBeaconData",function(){return u});h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();pagespeed.CriticalImages.Run('/ngx_pagespeed_beacon','https://www.computer-pdf.com/programming/csharp/155-tutorial-thinking-in-csharp-book-course-training-tutorial.html','uM9oc4_uNW',true,false,'V60uRg5yAGs');</script><img id="myImg" src="https://www.computer-pdf.com/documents/covers/x0155-thinking-in-csharp-book-course-training-tutorial.pdf.png.pagespeed.ic.Wq3xXq67DT.png" style="border: 1px solid #ccc;padding: 5px;width: 40%;" alt="Tutorial Thinking in C# 1" data-pagespeed-url-hash="486540913" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<img id="myImg2" src="https://www.computer-pdf.com/documents/covers/x0155-thinking-in-csharp-book-course-training-tutorial.pdf.2.png.pagespeed.ic.Pnh6WA7am1.png" style="border: 1px solid #ccc;padding: 5px;width: 40%;" alt="Tutorial Thinking in C# 2" data-pagespeed-url-hash="3184317085" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<figcaption>The first two pages of the ebook</figcaption>
+</figure>
+<br/>
+</div>
+<div class="col-sm-6">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3751423958117571" data-ad-slot="4805727575" data-ad-format="link"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<div class="panel-title">Summary on tutorial Thinking in C#</div>
+</div>
+<div class="panel-body">
+<p>
+It is never too late to start <strong>learning</strong> and it would be a shame to miss an opportunity to learn a tutorial or course that can be so useful as <strong>Thinking in C#</strong> especially when it is free! You do not have to register for expensive classes and travel from one part of town to another to take classes. All you need to do is download the course and open the PDF file. This specific program is classified in the CSharp language category where you can find some other similar courses.
+</p>
+<p>Thanks to people (like you?) Who share their knowledge, you can discover the extent of our being selected to easily learn without spending a fortune! Thinking in C#. is available for free by its author. But also many other tutorials are accessible
+just as easily!</p>
+<p>Computer PDF guide you and allow you to save on your studies.<br/> - <strong>Thinking in C#</strong>. help on the contact form if problems
+</p>
+<p>
+Computer PDF is also courses for training in <strong>C#, CSharp computer programming language</strong> and many others IT.<br/> You should come see our CSharp language documents. You will find your happiness without trouble !<br/> The latest news
+and especially the best tutorials on your favorite topics, that is why Computer PDF is number 1 for courses and tutorials for download in pdf files - Thinking in C#. and CSharp language!<br/> Download other tutorials for advice
+on Thinking in C#. you will see ! We will do everything to help you !
+</p>
+<p>And you dear surfers what you need? The best <strong>course and tutorial, and how to learn and use Thinking in C#</strong>. of course!</p>
+</div>
+</div>
+<div>
+<a class="down" href="https://www.computer-pdf.com/download-155" title="Download the tutorial" rel="nofollow"><i class="fa fa-download" aria-hidden="true"></i> Download the file</a>
+</div>
+<div class="detailBox">
+<div class="titleBox">
+<label>3 Comments</label>
+</div>
+<div class="actionBox">
+<ul class="commentList">
+<li>
+<div class="commenterImage">
+<img src="httpss://www.gravatar.com/avatar/d279d2d4b776451f2f8489a321ab918f.jpg?s=48&d=mm&r=g" alt="Japhlet" data-pagespeed-url-hash="1509687507" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+</div>
+<div class="commentText">
+<p class="">Thanks alot for this material!</p> <span class="date sub-text">Japhlet at 04-16-2018</span>
+</div>
+</li>
+<li>
+<div class="commenterImage">
+<i class="fa fa-user fa-3x" aria-hidden="true"></i>
+</div>
+<div class="commentText">
+<p class="">great material and thanks for make it available for download</p> <span class="date sub-text">nawebe at 01-28-2016</span>
+</div>
+</li>
+<li>
+<div class="commenterImage">
+<i class="fa fa-user fa-3x" aria-hidden="true"></i>
+</div>
+<div class="commentText">
+<p class="">good book it help very much then any other book thank you to upload this kind of book</p> <span class="date sub-text">indiahelp1 at 01-30-2014</span>
+</div>
+</li>
+</ul>
+<strong><a href="https://www.computer-pdf.com/login">Login or Create an account</a> to leave a comment </strong>
+</div>
+</div>
+</div>
+<div class="col-sm-12">
+<div id="myModal" class="modal">
+<span class="close">&times;</span>
+<img class="modal-content" id="img01">
+<div id="caption"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="row">
+<br/><br/>
+<div class="col-sm-12">
+<div class="panel panel-default">
+<div style="text-align: center;font-size: 1.4em;" class="panel-heading title">Categories</div>
+<div class="panel-body">
+<ul style="list-style: none; text-align: left;padding-left: 6px;"><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/office/" title="courses of Office"><i class="icons fa fa-files-o" aria-hidden="true"></i> Office <span class="badge">173</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/programming/" title="courses of Computer programming"><i class="icons fa fa-code" aria-hidden="true"></i> Computer programming <span class="badge">106</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/web-programming/" title="courses of Web programming"><i class="icons fa fa-html5" aria-hidden="true"></i> Web programming <span class="badge">93</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/database/" title="courses of Database"><i class="icons fa fa-database" aria-hidden="true"></i> Database <span class="badge">78</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/math/" title="courses of Mathematics"><i class="icons fa fa-calculator" aria-hidden="true"></i> Mathematics <span class="badge">57</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/graphics/" title="courses of Graphics"><i class="icons fa fa-camera" aria-hidden="true"></i> Graphics <span class="badge">52</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/operating-system/" title="courses of Operating system"><i class="icons fa fa-android" aria-hidden="true"></i> Operating system <span class="badge">47</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/network/" title="courses of Network"><i class="icons fa fa-wifi" aria-hidden="true"></i> Network <span class="badge">47</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/security/" title="courses of Computer security"><i class="icons fa fa-unlock-alt" aria-hidden="true"></i> Computer security <span class="badge">43</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/other/" title="courses of Other"><i class="icons fa fa-server" aria-hidden="true"></i> Other <span class="badge">28</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/architecture/" title="courses of Computer architecture"><i class="icons fa fa-desktop" aria-hidden="true"></i> Computer architecture <span class="badge">23</span></a><hr/></li><li style="padding:3px;font-size: 1.2em;"><a href="https://www.computer-pdf.com/design-analysis/" title="courses of design and analysis"><i class="icons fa fa-line-chart" aria-hidden="true"></i> design and analysis <span class="badge">12</span></a></li></ul>
+</div>
+</div>
+</div>
+<div class="col-sm-12">
+<div class="panel panel-default">
+<div style="text-align: center;font-size: 1.4em;" class="panel-heading panel-title">
+Similar Tutorials
+</div>
+<div class="panel-body">
+<a href="https://www.computer-pdf.com/programming/csharp/159-tutorial-csharp-school-course-tutorial-training.html" title="learn C# School in pdf">C# School</a> <br/>
+Tutorial C# School (PDF, 2.22 MB)
+<hr class="rand"/>
+<a href="https://www.computer-pdf.com/programming/csharp/33-tutorial-course-tutorial-csharp-language-school.html" title="learn C# School in pdf">C# School</a> <br/>
+Tutorial C# School (PDF, 2.22 MB)
+<hr class="rand"/>
+<a href="https://www.computer-pdf.com/programming/csharp/32-tutorial-introduction-to-csharp-language.html" title="learn Introduction to C#  in pdf">Introduction to C# </a> <br/>
+Tutorial Introduction to C# (PDF, 308.77 KB)
+<hr class="rand"/>
+<a href="https://www.computer-pdf.com/programming/csharp/30-tutorial-training-course-csharp-language.html" title="learn C# Programming in pdf">C# Programming</a> <br/>
+Tutorial C# Programming (PDF, 954.8 KB)
+<hr class="rand"/>
+<a href="https://www.computer-pdf.com/programming/csharp/540-tutorial-advanced-csharp-c.html" title="learn Advanced CSharp (C#) in pdf">Advanced CSharp (C#)</a> <br/>
+Tutorial Advanced CSharp (C#) (PDF, 284.06 KB)
+<hr class="rand"/>
+<a href="https://www.computer-pdf.com/programming/csharp/374-tutorial-data-acquisition-in-c.html" title="learn Data	 Acquisition in C# in pdf">Data	Acquisition in C#</a> <br/>
+Tutorial Data	Acquisition in C# (PDF, 7.26 MB)
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-12">
+<footer class="row">
+<div class="col-sm-6">
+<h3 style="font-size:1.4em;">Latest Added Tutorials</h3>
+<ul class="list-unstyled">
+<li><a href="https://www.computer-pdf.com/graphics/771-tutorial-photoshop-digital-matte-painting.html">Photoshop Digital Matte Painting</a></li><li><a href="https://www.computer-pdf.com/graphics/770-tutorial-digital-painting-with-krita.html">Digital Painting with KRITA</a></li><li><a href="https://www.computer-pdf.com/programming/c-cpp/769-tutorial-let-us-c.html">Let Us C</a></li><li><a href="https://www.computer-pdf.com/other/768-tutorial-a-short-introduction-to-the-world-of-cryptocurrencies.html">A Short Introduction to the World of Cryptocurrencies</a></li><li><a href="https://www.computer-pdf.com/other/767-tutorial-the-future-of-cryptocurrency.html">The Future of Cryptocurrency</a></li><li><a href="https://www.computer-pdf.com/other/766-tutorial-crash-course-on-cryptocurrencies.html">Crash course on cryptocurrencies</a></li><li><a href="https://www.computer-pdf.com/other/765-tutorial-bitcoin-and-cryptocurrency-technologies.html">Bitcoin and Cryptocurrency Technologies</a></li><li><a href="https://www.computer-pdf.com/operating-system/linux/764-tutorial-kali-linux.html">Kali Linux</a></li><li><a href="https://www.computer-pdf.com/database/763-tutorial-databases-relational-database-design.html">Databases Relational Database Design</a></li><li><a href="https://www.computer-pdf.com/database/762-tutorial-databases-relational-model-and-algebra.html">Databases Relational Model and Algebra</a></li>
+</ul>
+</div>
+<div class="col-sm-4">
+<h3 style="font-size:1.4em;">Top Downloads Tutorials</h3>
+<ul class="list-unstyled">
+<li><a href="https://www.computer-pdf.com/graphics/92-tutorial-adobe-photoshop-tutorial.html">Adobe photoshop tutorial</a></li><li><a href="https://www.computer-pdf.com/office/excel/16-tutorial-microsoft-excel-2007-advanced.html">Microsoft Excel 2007 Advanced</a></li><li><a href="https://www.computer-pdf.com/office/excel/18-tutorial-excel-2010-advanced.html">Excel 2010 Advanced</a></li><li><a href="https://www.computer-pdf.com/office/excel/195-tutorial-microsoft-excel-2013-tutorial.html">Microsoft Excel 2013 Tutorial</a></li><li><a href="https://www.computer-pdf.com/office/excel/196-tutorial-advanced-microsoft-excel-2013.html">Advanced Microsoft Excel 2013</a></li><li><a href="https://www.computer-pdf.com/office/excel/14-tutorial-excel-for-advanced-users.html">Excel for advanced users</a></li><li><a href="https://www.computer-pdf.com/office/word/12-tutorial-microsoft-word-2010.html">Microsoft Word 2010</a></li><li><a href="https://www.computer-pdf.com/database/121-tutorial-oracle-database-11g-sql-fundamentals-course.html">Oracle Database 11g: SQL Fundamentals</a></li><li><a href="https://www.computer-pdf.com/graphics/156-tutorial-adobe-photoshop-cs6-tutorial.html">Adobe Photoshop CS6 Tutorial</a></li><li><a href="https://www.computer-pdf.com/office/excel/302-tutorial-excel-2007-2010-time-saving-tips-tricks.html">EXCEL 2007/2010 - Time Saving Tips & Tricks</a></li>
+</ul>
+</div>
+<div class="col-sm-2 sn">
+<div style="padding-top: 16px;">
+<span style="font-size: 1.4em;display: block;font-weight: 500;">Follow us on</span>
+<br/>
+<a href="https://www.facebook.com/ComputerPdf" target="_blank" title="follow us on google facebook" rel="nofollow"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a><br/><br/>
+<a href="https://twitter.com/computer_pdf" target="_blank" title="follow us on twitter" rel="nofollow"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a><br/><br/>
+<a href="https://plus.google.com/+Computer-pdf" rel="publisher" title="follow us on google plus" target="_blank"><i class="fa fa-google fa-3x" aria-hidden="true"></i></a><br/><br/>
+<a href="https://computer-pdf.tumblr.com/" rel="publisher" title="follow us on Tumblr" target="_blank"><i class="fa fa-tumblr fa-3x" aria-hidden="true"></i></a>
+</div>
+</div>
+</footer>
+</div>
+<div class=row>
+<div class="copyright col-sm-12">
+<p>
+All right reserved 2011-2018 copyright © <a href="https://www.computer-pdf.com" title="website computer-pdf.com">computer-pdf.com v5</a> +1-620-355-1835 - Courses, corrected exercises, tutorials and practical work in IT.
+</p>
+<p>
+Partner sites <a href="http://www.pdf-tutorial.com">PDF Tutorials (English)</a> | <a href="https://www.pdf-manual.es">PDF Manuales (Spanish)</a> | <a href="https://www.bestcours.com">Cours PDF (French)</a>
+</p>
+</div>
+</div>
+<div class="socialfloat">
+<a class="fbtn share facebook" href="http://www.facebook.com/sharer/sharer.php?u=https://www.computer-pdf.com/programming/csharp/155-tutorial-thinking-in-csharp-book-course-training-tutorial.html"><i class="fa fa-facebook"></i></a>
+<a class="fbtn share twitter" href="https://twitter.com/intent/tweet?url=https://www.computer-pdf.com/programming/csharp/155-tutorial-thinking-in-csharp-book-course-training-tutorial.html&text=Download+free+Thinking+in+C%23+full+book+course+and+training+tutorials%2C+PDF+file+writing+by+Larry+O%E2%80%99Brien+and+Bruce+Eckel"><i class="fa fa-twitter"></i></a>
+<a class="fbtn share gplus" href="https://plus.google.com/share?url=https://www.computer-pdf.com/programming/csharp/155-tutorial-thinking-in-csharp-book-course-training-tutorial.html"><i class="fa fa-google-plus"></i></a>
+<a class="fbtn share stumbleupon" href="http://www.stumbleupon.com/submit?url=https://www.computer-pdf.com/programming/csharp/155-tutorial-thinking-in-csharp-book-course-training-tutorial.html&title=Thinking+in+C%23"><i class="fa fa-stumbleupon"></i></a>
+<a class="fbtn share linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https://www.computer-pdf.com/programming/csharp/155-tutorial-thinking-in-csharp-book-course-training-tutorial.html"><i class="fa fa-linkedin"></i></a>
+<a class="fbtn share buffer" href="https://buffer.com/add?text=Download+free+Thinking+in+C%23+full+book+course+and+training+tutorials%2C+PDF+file+writing+by+Larry+O%E2%80%99Brien+and+Bruce+Eckel&url=https://www.computer-pdf.com/programming/csharp/155-tutorial-thinking-in-csharp-book-course-training-tutorial.html"><i class="fa fa-share-square-o"></i></a>
+</div>
+</div>
+<script>var cb=function(){var l=document.createElement('link');l.rel='stylesheet';l.href='/css/app.min.css';var h=document.getElementsByTagName('head')[0];h.parentNode.insertBefore(l,h);};var raf=requestAnimationFrame||mozRequestAnimationFrame||webkitRequestAnimationFrame||msRequestAnimationFrame;if(raf)raf(cb);else window.addEventListener('load',cb);</script>
+<script src="/js/jquery.js.pagespeed.jm.Q5aQq9Hc9w.js"></script>
+<script>var modal=document.getElementById('myModal');var img=document.getElementById('myImg');var img2=document.getElementById('myImg2');var modalImg=document.getElementById("img01");var captionText=document.getElementById("caption");img.onclick=function(){modal.style.display="block";modalImg.src=this.src;captionText.innerHTML=this.alt;}
+img2.onclick=function(){modal.style.display="block";modalImg.src=this.src;captionText.innerHTML=this.alt;}
+modal.onclick=function(){modal.style.display="none";}
+var span=document.getElementsByClassName("close")[0];span.onclick=function(){modal.style.display="none";}</script>
+<script type="text/javascript">jQuery(document).ready(function($){$('.share').click(function(){var NWin=window.open($(this).prop('href'),'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');if(window.focus){NWin.focus();}return false;});});</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "bookFormat": "EBook",
+  "datePublished": "12/26/2013",
+  "description": "Download free Thinking in C# full book course and training tutorials, PDF file writing by Larry O’Brien and Bruce Eckel",
+  "genre": "CSharp language Tutorials",
+  "name": "Thinking in C#",
+    "numberOfPages": "957",
+      "publisher": {
+    "@type": "Organization",
+    "name": "Larry O’Brien and Bruce Eckel"
+  }
+  }
+</script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script>var OneSignal=window.OneSignal||[];OneSignal.push(["init",{appId:"e531f5c3-2935-468d-ad82-a085d60f148a",autoRegister:true,notifyButton:{enable:false}}]);</script> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-36816468-1','auto');ga('send','pageview');</script>
+</body>
+</html>

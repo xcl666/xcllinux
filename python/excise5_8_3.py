@@ -1,0 +1,6 @@
+name = raw_input('Give me your name, please: ')
+quantily = raw_input('How man widgets are buying? ')
+price = raw_input('How much do they cost, per item? ')
+total = float(quantily) * float(price)
+print 'Your total is ${}'.format(total)
+print 'Thanks for shopping with us today, {}!'.format(name)

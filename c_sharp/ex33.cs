@@ -25,6 +25,7 @@ namespace SoloLearn
 			intStack.Push(3);
 			intStack.Push(6);
 			intStack.Push(7);
+			Console.WriteLine(intStack.Get(0));
 			Console.WriteLine(intStack.Get(1));
 		}
 	}
