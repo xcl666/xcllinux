@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml"> 
+<head>
+<title>最强装逼打脸系统最新章节,太上布衣作品选-飘天文学</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="keywords" content="最强装逼打脸系统,最强装逼打脸系统最新章节,最强装逼打脸系统TXT下载" />
+<meta name="description" content="飘天文学提供最强装逼打脸系统，最强装逼打脸系统最新章节免费阅读" />
+<link rel="stylesheet" rev="stylesheet" href="/css/style.css" type="text/css" media="all" />
+<script language="javascript" type="text/javascript" src="/scripts/common.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/headerlogin.js"></script>
+<script language="javascript" type="text/javascript" src="/css/theme.js"></script>
+
+</head>
+<body>
+
+<div class="main m_top">
+<script>login();</script>
+<div class="fr"><a id="st" href="javascript:st();void 0;">繁體中文</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+<div class="main m_head">
+<div class="h_logo"><a href="https://www.piaotian.com/"><img src="/css/logo.gif"  border="0" alt="飘天文学" /></a></div>
+<div  class="h_banner">
+
+</div>
+
+<div class="h_link">
+  <ul class="ulitem">
+  <li><a onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('https://www.piaotian.com');" href="#">设为首页</a>&nbsp;</li>
+  <li><a href="/help/">新手帮助</a>&nbsp;</li>
+  <li><a href="javascript:window.external.addFavorite('https://www.piaotian.com','飘天文学-飘越天空的小说阅读网')">加入收藏</a>&nbsp;</li>
+  </ul>
+</div>
+</div>
+
+<div class="main nav">
+<div class="navinner">
+<ul class="navlist">
+  <li><a href="/">网站首页</a> </li>
+  <li><a href="/booksort1/0/1.html">玄幻魔法</a> </li>
+  <li><a href="/booksort2/0/1.html">武侠修真</a> </li>
+  <li><a href="/booksort3/0/1.html">都市言情</a> </li>
+  <li><a href="/booksort4/0/1.html">历史军事</a> </li>
+  <li><a href="/booksort5/0/1.html">网游竞技</a> </li>
+  <li><a href="/booksort6/0/1.html">科幻小说</a> </li>
+  <li><a href="/booksort7/0/1.html">恐怖灵异</a> </li>
+  <li><a href="/booksort8/0/1.html">同人漫画</a> </li>
+  <li><a href="/booksort9/0/1.html">其他类型</a> </li>
+  <li><a href="/quanben/index.html">全本小说</a> </li>
+  <li><a href="/booksort/0/1.html">全部文章</a> </li>
+</ul></div>
+
+<div class="main m_top">
+
+<div class="fl" style="padding:1px;">
+<form name="articlesearch" method="post" action="/modules/article/search.php" onsubmit="if(searchkey.value=='' || searchkey.value=='输入关键字（支持模糊和繁体搜索）'){alert(' 飘天文学：请输入关键字！');return false;}"  target="_blank">
+<label><input type="radio" name="searchtype" value="author" id="searchtype_1" />作者</label>
+<label><input name="searchtype" type="radio" id="searchtype_0" value="articlename" checked="checked" />书名</label>
+<input name="searchkey" type="text"  class="text1" id="searchkey" onfocus="this.classname='over'; value =''" onblur="this.classname='input'"  value="输入关键字（支持模糊和繁体搜索）" size="30" maxlength="30" />
+<input type="submit" name="Submit" class="button" value=" 搜 索 " />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<TD width="648"><span class="hottext"></span></TD>
+</form>
+  </div>
+ 
+</div>
+</div></div>
+<div id="DivTonglan" style="width: 960px;clear: both;text-align: center;margin-left: auto;margin-right: auto;"></div>
+
+
+
+<div class="main">
+
+  <div id="centerl">
+
+
+<div id="content">
+
+</div></div></div>
+<div class="main">
+<div id="left">
+<div class="block">
+<div class="blocktitle"><span 
+class="txt">作者相关作品</span><span class="txtr"></span></div>
+<div class="blockcontent">
+暂无其它相关作品</div></div><div class="block"><div class="blocktitle"><span 
+class="txt">本站推荐</span><span class="txtr"></span></div><div class="blockcontent"><script language="javascript" type="text/javascript" src="https://www.piaotian.com/blockshow.php?bid=25&module=article&filename=block_articlelist&classname=BlockArticleArticlelist&vars=toptime%2C18%2C1%7C3%7C4%2C0%2C1%2C0&template=block_toptime.html&contenttype=4&custom=0&publish=3&hasvars=1"></script>
+</div>
+<script language="javascript" src="/scripts/readindex/10.js"></script>
+</div>
+
+</div>
+<div id="centerm">
+<script language="javascript" src="/scripts/shareto_info.js"></script>
+<div id="content">
+<SCRIPT language=javascript type=text/javascript src="/scripts/jquery.js"></SCRIPT>
+
+<table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><table width="100%"  border="0" cellspacing="0" cellpadding="3">
+      <tr align="center">
+        <td colspan="4">
+            <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td width="80%" align="center" valign="middle"><span style="font-size:16px; font-weight: bold; line-height: 150%"><h1>最强装逼打脸系统</h1></span></td>
+                </tr>
+            </table>
+</td>
+        </tr>
+
+
+      <tr>
+        <td width="25%">类&nbsp;&nbsp;&nbsp; 别：武侠修真</td>
+        <td width="25%">作&nbsp;&nbsp;&nbsp; 者：太上布衣</td>
+        <td width="25%">管 理 员：</td>
+        <td width="25%">全文长度：5785534字</td>
+      </tr>
+      <tr>
+        <td>最后更新：2018-08-20</td>
+        <td>文章状态：连载中</td>
+        <td>授权级别：暂未授权</td>
+        <td>首发状态：他站首发</td>
+      </tr>
+      <tr>
+        <td>收 藏 数：663</td>
+        <td>总推荐数：102182</td>
+        <td>本月推荐：811</td>
+        <td>收到鲜花：<span class="hottext">59</span></td>
+      </tr>
+    </table>
+</td>
+  </tr>
+  <tr>
+    <td bgcolor="#000000" height="1"></td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+  <tr>
+    <td><table width="100%"  border="0" cellspacing="0" cellpadding="3">
+      <tr>
+        <td width="20%" align="center" valign="top"><a title="点击阅读《最强装逼打脸系统》" href="https://www.piaotian.com/html/8/8259/" ><IMG  src="/images/dian.gif" alt="点击阅读最强装逼打脸系统" border=0></a>
+		<A title="将《最强装逼打脸系统》加入书架" href="https://www.piaotian.com/modules/article/addbookcase.php?bid=8259" target="_blank"><IMG  src="/images/jia.gif" border=0></a>
+		<div style="width:115px;height:28px;background:url('/images/tui.gif');cursor:pointer;" onclick="javascript:window.open(' https://www.piaotian.com/modules/article/uservote.php?id=8259&num='+document.getElementById('votenum').value);" ><input name="votenum" type="text" id="votenum" value="1" size="3" style="margin-left:32px;margin-top:4px;width:18px;height:15px;line-height:15px;"/></div>
+		<a title="鲜花推荐--每朵鲜花需要100积分" href="/modules/article/flower.php?id=8259" target="_blank"><IMG src="/images/xh.gif" border=0></a>
+
+
+
+        <SCRIPT language=javascript>
+function copyToClipBoard(){
+var clipBoardContent=''; 
+clipBoardContent+='最强装逼打脸系统最新章节阅读地址:';
+clipBoardContent+=window.location;
+window.clipboardData.setData("Text",clipBoardContent);
+alert("你已复制链接及标题，请粘贴到POPO/MSN/QQ等发给好友!");
+}
+</SCRIPT>
+        <a title="向好友推荐本书" onclick=copyToClipBoard() href="#"><IMG src="/images/friend.gif" border=0></a>
+
+
+
+        
+
+        <td width="80%" valign="top">
+<a href="https://www.piaotian.com/files/article/image/8/8259/8259s.jpg" target="_blank"><img src="https://www.piaotian.com/files/article/image/8/8259/8259s.jpg" border="0" width="100" height="125" align="right" hspace="5" vspace="5" /></a>
+<div style="float:left;width:390px;">
+          <span class="hottext">最新章节：</span><a href="https://www.piaotian.com/html/8/8259/6640284.html">第1442章 “缺德狗”真的很缺德</a><br />
+		  
+		  <br/>
+          <span class="hottext">内容简介：</span><br />&nbsp;&nbsp;&nbsp;&nbsp;“年轻人，当年我开始装逼的时候，你们还只是一滴液体！”<br />
+&nbsp;&nbsp;&nbsp;&nbsp;“仙子，随在下走一趟，保证带你装逼带你飞，带你一起嘿嘿嘿！”<br />
+&nbsp;&nbsp;&nbsp;&nbsp;身披狂徒铠甲，肩扛日炎斗篷。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;左手无尽之刃，右手诛仙神剑。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;横扫修仙界无敌手，就问一声还有谁？<br />
+&nbsp;&nbsp;&nbsp;&nbsp;装逼如风，常伴吾身！<br />
+&nbsp;&nbsp;&nbsp;&nbsp;长路漫漫，装逼相伴！<br />
+&nbsp;&nbsp;&nbsp;&nbsp;徐缺踏上了一条装逼之路，每天不是在装逼，就是在去装逼的路上！【书友群】：575088701<br />
+<br /><br />
+ 
+      </td>
+      </tr>
+    </table></td>
+  </tr>
+  
+  
+<tr>
+    <td height="5px"></td>
+  </tr>
+<tr><td height="10px"><script language="javascript" type="text/javascript" src="/scripts/readindex/tonglan.js"></script></td>
+  </tr>
+  <tr><td height="5px"></td></tr>
+<tr><td>
+<table class="grid" width="100%" align="center">
+   <caption>《<font style="color: #da1a27;font-weight: bold;">最强装逼打脸系统</font>》最新章节预览......<a href="https://www.piaotian.com/html/8/8259/index.html">(查看全部章节)</caption>
+</a>
+</div>
+<tr>
+
+<td style="padding: 3px;width:33%"><li style="background: url(/images/arrow.png) no-repeat 0 12px; float: left; padding-left: 9px; max-width: 174px; height: 24px; line-height: 25px; color: #333; display: inline-block; overflow: hidden; "><a href="https://www.piaotian.com/html/8/8259/6640284.html" title='第1442章 “缺德狗”真的很缺德 更新时间:08-20 06:40' target="_blank">第1442章 “缺德狗”真的很缺德</a>
+</li></td>
+
+<td style="padding: 3px;width:33%"><li style="background: url(/images/arrow.png) no-repeat 0 12px; float: left; padding-left: 9px; max-width: 174px; height: 24px; line-height: 25px; color: #333; display: inline-block; overflow: hidden; "><a href="https://www.piaotian.com/html/8/8259/6638565.html" title='第1441章 闪亮登场！ 更新时间:08-19 00:20' target="_blank">第1441章 闪亮登场！</a>
+</li></td>
+
+<td style="padding: 3px;width:33%"><li style="background: url(/images/arrow.png) no-repeat 0 12px; float: left; padding-left: 9px; max-width: 174px; height: 24px; line-height: 25px; color: #333; display: inline-block; overflow: hidden; "><a href="https://www.piaotian.com/html/8/8259/6636913.html" title='第1440章 又来？ 更新时间:08-18 00:08' target="_blank">第1440章 又来？</a>
+
+</tr><tr>
+</li></td>
+
+<td style="padding: 3px;width:33%"><li style="background: url(/images/arrow.png) no-repeat 0 12px; float: left; padding-left: 9px; max-width: 174px; height: 24px; line-height: 25px; color: #333; display: inline-block; overflow: hidden; "><a href="https://www.piaotian.com/html/8/8259/6635266.html" title='第1439章 花里胡哨 更新时间:08-16 23:20' target="_blank">第1439章 花里胡哨</a>
+</li></td>
+
+<td style="padding: 3px;width:33%"><li style="background: url(/images/arrow.png) no-repeat 0 12px; float: left; padding-left: 9px; max-width: 174px; height: 24px; line-height: 25px; color: #333; display: inline-block; overflow: hidden; "><a href="https://www.piaotian.com/html/8/8259/6629980.html" title='第1438章 你们说够了吗 更新时间:08-15 00:05' target="_blank">第1438章 你们说够了吗</a>
+</li></td>
+
+<td style="padding: 3px;width:33%"><li style="background: url(/images/arrow.png) no-repeat 0 12px; float: left; padding-left: 9px; max-width: 174px; height: 24px; line-height: 25px; color: #333; display: inline-block; overflow: hidden; "><a href="https://www.piaotian.com/html/8/8259/6628563.html" title='第1437章 仙王！ 更新时间:08-14 00:14' target="_blank">第1437章 仙王！</a>
+
+</tr><tr>
+</li></td>
+
+<td style="padding: 3px;width:33%"><li style="background: url(/images/arrow.png) no-repeat 0 12px; float: left; padding-left: 9px; max-width: 174px; height: 24px; line-height: 25px; color: #333; display: inline-block; overflow: hidden; "><a href="https://www.piaotian.com/html/8/8259/6626537.html" title='第1436章 全面开战！ 更新时间:08-13 00:06' target="_blank">第1436章 全面开战！</a>
+</li></td>
+
+<td style="padding: 3px;width:33%"><li style="background: url(/images/arrow.png) no-repeat 0 12px; float: left; padding-left: 9px; max-width: 174px; height: 24px; line-height: 25px; color: #333; display: inline-block; overflow: hidden; "><a href="https://www.piaotian.com/html/8/8259/6624472.html" title='第1435章 有种来打我啊 更新时间:08-12 00:43' target="_blank">第1435章 有种来打我啊</a>
+</li></td>
+
+<td style="padding: 3px;width:33%"><li style="background: url(/images/arrow.png) no-repeat 0 12px; float: left; padding-left: 9px; max-width: 174px; height: 24px; line-height: 25px; color: #333; display: inline-block; overflow: hidden; "><a href="https://www.piaotian.com/html/8/8259/6619694.html" title='第1434章 总算来了 更新时间:08-09 22:28' target="_blank">第1434章 总算来了</a>
+
+</tr><tr>
+</li></td>
+
+</tr>
+</table>
+</td></tr>
+<tr><td height="10px"></td></tr>
+  <tr>
+    <td><table class="grid" width="100%" align="center">
+	 <tr>
+          <td align="center" colspan="4" class="title">[最新书评]&nbsp;&nbsp;&nbsp; [<a href="https://www.piaotian.com/modules/article/reviews.php?aid=8259&type=good" target="_blank">精华书评</a>]&nbsp;&nbsp;&nbsp; [<a href="https://www.piaotian.com/modules/article/reviews.php?aid=8259&type=all" target="_blank">全部书评</a>] </td>
+        </tr>
+    
+<tr>
+      <td width="50%" class="odd"><a href="https://www.piaotian.com/modules/article/reviewshow.php?rid=577960" target="_blank">(天下第九 https://www.shengxu5.com/8_8259/ )</a></td>
+      <td width="22%" class="odd">点击(39)/回复(0)</td>
+      <td width="15%" class="odd"><a href="https://www.piaotian.com/userinfo.php?id=60382" target="_blank">19700722</a></td>
+      <td width="13%" class="odd">07-08 14:34</td>
+    </tr>
+    
+<tr>
+      <td width="50%" class="odd"><a href="https://www.piaotian.com/modules/article/reviewshow.php?rid=519764" target="_blank">好看</a></td>
+      <td width="22%" class="odd">点击(35)/回复(0)</td>
+      <td width="15%" class="odd"><a href="https://www.piaotian.com/userinfo.php?id=181386" target="_blank">風月</a></td>
+      <td width="13%" class="odd">06-22 17:50</td>
+    </tr>
+    
+<tr>
+      <td width="50%" class="odd"><a href="https://www.piaotian.com/modules/article/reviewshow.php?rid=513265" target="_blank">[TXT下载地址]&nbsp;&nbsp; [TXT全集下载]&nbsp;&nbsp; [点击阅读]</a></td>
+      <td width="22%" class="odd">点击(42)/回复(0)</td>
+      <td width="15%" class="odd"><a href="https://www.piaotian.com/userinfo.php?id=60382" target="_blank">19700722</a></td>
+      <td width="13%" class="odd">06-22 02:39</td>
+    </tr>
+    
+<tr>
+      <td width="50%" class="odd"><a href="https://www.piaotian.com/modules/article/reviewshow.php?rid=436414" target="_blank">很搞笑</a></td>
+      <td width="22%" class="odd">点击(341)/回复(0)</td>
+      <td width="15%" class="odd"><a href="https://www.piaotian.com/userinfo.php?id=55595" target="_blank">catherine</a></td>
+      <td width="13%" class="odd">06-27 11:36</td>
+    </tr>
+    
+<tr>
+      <td width="50%" class="odd"><a href="https://www.piaotian.com/modules/article/reviewshow.php?rid=436413" target="_blank">很搞笑</a></td>
+      <td width="22%" class="odd">点击(188)/回复(0)</td>
+      <td width="15%" class="odd"><a href="https://www.piaotian.com/userinfo.php?id=55595" target="_blank">catherine</a></td>
+      <td width="13%" class="odd">06-27 11:36</td>
+    </tr>
+    
+<tr>
+      <td width="50%" class="odd"><a href="https://www.piaotian.com/modules/article/reviewshow.php?rid=436412" target="_blank">很搞笑</a></td>
+      <td width="22%" class="odd">点击(203)/回复(0)</td>
+      <td width="15%" class="odd"><a href="https://www.piaotian.com/userinfo.php?id=55595" target="_blank">catherine</a></td>
+      <td width="13%" class="odd">06-27 11:35</td>
+    </tr>
+    
+<tr>
+      <td width="50%" class="odd"><a href="https://www.piaotian.com/modules/article/reviewshow.php?rid=434729" target="_blank">給作者</a></td>
+      <td width="22%" class="odd">点击(544)/回复(0)</td>
+      <td width="15%" class="odd"><a href="https://www.piaotian.com/userinfo.php?id=392782" target="_blank">s8952033</a></td>
+      <td width="13%" class="odd">04-19 15:57</td>
+    </tr>
+    
+     </table></td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+  <tr>
+      <td><form name="frmreview" method="post" action="https://www.piaotian.com/modules/article/reviews.php?aid=8259" target="_self">
+          <table class="grid" width="100%" align="center">
+              <caption>喜欢《最强装逼打脸系统》的读者可以在飘天文学发表评论!不但可以与其他书友分享乐趣，也可以增加积分和经验！</caption>
+		<tr>
+			    <td class="odd" width="25%">标题</td>
+                  <td class="even"><input type='text' class='text' name='ptitle' id='ptitle' size='60' maxlength='60' value='' /></td>
+              </tr>
+              <tr>
+                <td class="odd" width="25%">内容</td>
+                  <td class="even"><textarea class="textarea" name="pcontent" id="pcontent" cols="60" rows="12"></textarea><script language="javascript" src="https://www.piaotian.com/scripts/ubbeditor.js"></script><script language="javascript">UBBEditor.Create("pcontent");</script></td>
+              </tr>
+              <tr>
+                <td class="odd" width="25%">&nbsp;</td>
+                  <td class="even"><input type="submit" name="Submit" class="button" value=" 发表书评 "></td>
+              </tr>
+          </table>
+      </form></td>
+  </tr>
+</table></div>
+
+</div>
+
+</div>
+
+
+
+
+<div class="main m_foot">
+<b>最强装逼打脸系统</b>小说和<b>最强装逼打脸系统最新章节</b>由本站热心会员提供，如果给您带来了损失，请邮件联系我们处理！<br>Copyright www.piaotian.com | 联系邮箱：support@piaotian.com | 免费小说阅读网  | <script language="javascript" type="text/javascript" src="/scripts/readindex/tongji.js"></script>
+</div>
+<script language='javascript' src='/scripts/gb1.js'></script>
+</body>
+</html>
