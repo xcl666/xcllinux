@@ -6,7 +6,10 @@
 
 #include <stdio.h>
 int main(void){
-	printf("Hello World!");
+	printf("Hello World!\n");
+  int a = 0;
+  printf("%d\n",a);
+  printf("%d\n",&a);
 	return 0;
 }
 
