@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go/go_24hours/go/src/golang.org/x/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go/go_24hours/go/src/golang.org/x/tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go/go_24hours/go/src/golang.org/x/tour" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go/go_24hours/golang-book-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/gs-gradle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/gs-rest-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/gs-spring-boot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/gs-spring-boot/java24hours" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/readinglist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/spring_REST/gs-rest-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/octopress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python3/PythonDataScienceHandbook" vcs="Git" />
+  </component>
+</project>
